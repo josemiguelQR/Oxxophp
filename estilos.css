@@ -46,6 +46,17 @@ header {
 	width:95%;
 	vertical-align: top;
 }
+
+.articulos img {
+	width:85%;
+	vertical-align: top;
+}
+
+.familia img {
+	width:55%;
+	vertical-align: top;
+}
+
 nav {
 	float: right;
 }

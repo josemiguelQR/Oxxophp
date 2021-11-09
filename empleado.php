@@ -6,9 +6,12 @@
 			</div>
 
 			<div class="articulo">
-			<h1>¿Buscas empleo?<br>
+			<h1>¿Buscas empleo?
 				Unete a nuestra familia
-			</h1>
+			</h1><br>
+      <div class="familia">
+				<img src="img/familia.png" alt="FalconMasters">
+			</div><br>
             <p>Deja aqui tus datos y nosotros te contactaremos</p><br>
 <form>
   <label for="fname">Nombre</label><br>
@@ -68,8 +71,8 @@
   <input type="submit" value="Enviar">
 </form>
 			</div>
-
 			<?php include("sidebar.php"); ?>
+
 		</div>
 	</section>
 <?php include("footer.php"); ?>
